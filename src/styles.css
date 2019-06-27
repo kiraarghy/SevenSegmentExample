@@ -1,0 +1,11 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+  background-color: black;
+  width: 100vw;
+  height: 100vh;
+  padding-top: 3em;
+}
+svg:last-child {
+  margin-left: 20px;
+}

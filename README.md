@@ -1,2 +1,0 @@
-# SevenSegmentExample
-Created with CodeSandbox
