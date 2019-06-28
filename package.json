@@ -1,7 +1,7 @@
 {
-  "name": "7segment",
+  "name": "sevensegmentexample",
   "version": "1.0.0",
-  "description": "",
+  "description": "Example of use of @kiraarghy/seven-segment",
   "keywords": [],
   "main": "src/index.js",
   "dependencies": {
